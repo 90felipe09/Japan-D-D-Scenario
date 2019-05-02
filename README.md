@@ -4,6 +4,24 @@
 Overleaf:
 https://www.overleaf.com/1591426172sqysytzqvrgw
 
+Organização do Material:
+
+Capítulo 0: Introdução e Orientações Gerais para Aplicação Didática.
+
+Capítulo 1: Cenário de Campanha.
+
+Capítulo 2: Construção de Personagens.
+
+Capítulo 3: Bestiário de Yokais.
+
+Capítulo 4: Geografia.
+
+Apêndice 1: PDF de Ficha de Personagem.
+
+Apêndice 2: Personagens prontos.
+
+Apêndice 3: Exemplos de Aventuras.
+
 TO-DO:
 - [ ] Yokais
 - [ ] Personagens
