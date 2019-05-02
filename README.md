@@ -1,4 +1,4 @@
-# Kamakura D&D 3.5 Cenário de Campanha Didático
+# Cenário de Campanha Didático do Período Kamakura D&D 3.5
 3.5 Homebrew Campaign
 
 Overleaf:
@@ -8,6 +8,7 @@ TO-DO:
 - [ ] Yokais
 - [ ] Personagens
 - [ ] Cenário
+- [ ] Exemplos de Aventura
 
 Referências de Yokais:
 
