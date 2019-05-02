@@ -7,7 +7,7 @@ https://www.overleaf.com/1591426172sqysytzqvrgw
 TO-DO:
 - [ ] Yokais
 - [ ] Personagens
-- [ ] Cenário
+- [X] Cenário
 - [ ] Exemplos de Aventura
 
 Referências de Yokais:
