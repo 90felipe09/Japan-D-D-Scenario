@@ -38,6 +38,8 @@ Referências de Yokais:
 
 https://www.yokai.com
 
+Site muito bem organizado, merece apoio no Patreon.
+
 Referências de Personagens:
 
 Livro do Jogador 3.5
