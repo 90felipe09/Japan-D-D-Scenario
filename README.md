@@ -1,8 +1,7 @@
 # Cenário de Campanha Didático do Período Kamakura D&D 3.5
 3.5 Homebrew Campaign
 
-Overleaf:
-https://www.overleaf.com/1591426172sqysytzqvrgw
+
 
 Organização do Material:
 
@@ -10,9 +9,16 @@ Capítulo 0: Introdução e Orientações Gerais para Aplicação Didática.
 
 Capítulo 1: Cenário de Campanha.
 
+Overleaf:
+https://www.overleaf.com/1591426172sqysytzqvrgw
+
 Capítulo 2: Construção de Personagens.
 
+https://www.overleaf.com/6752368763fkfghkzzxmry
+
 Capítulo 3: Bestiário de Yokais.
+
+https://www.overleaf.com/4163736422hktbhbwgmcrk
 
 Capítulo 4: Geografia.
 
